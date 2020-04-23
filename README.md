@@ -60,9 +60,7 @@ Demographic data come from the US Census Bureau. Data on confirmed Covid-19 case
 |April 16 | Democrat, Republican, conservative, liberal — we’re all working together.  This is not about parties; this is about our country. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-27/)
 |April 17 | Liberate Minnesota, Liberate Michigan, Liberate Virginia, and save your great 2nd Amendment. It is under siege! [Link1](https://twitter.com/realdonaldtrump/status/1251169987110330372), [Link2](https://twitter.com/realdonaldtrump/status/1251169217531056130),[Link3](https://twitter.com/realdonaldtrump/status/1251168994066944003)|
 |April 18| You have [Democrats] trying to take your 2nd Amendment away, essentially.  So I do think it's an appropriate time to bring it up. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-members-coronavirus-task-force-press-briefing-2/)|
-
 |April 19 | Partisan protests take place in state capitals around the US
-
 |April 20 | Nobody that needed a ventilator in this country didn’t get one. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-29/)|
 |April 21 | We’re opening up America again. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-members-coronavirus-task-force-press-briefing-3/)
 |April 22 | But I think spas and beauty salons and tattoo parlors and barber shops in phase one... it's just too soon. [Link](https://www.c-span.org/video/?471421-1/president-trump-voices-disagreement-georgia-governor-reopening-plan&start=965)|
