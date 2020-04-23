@@ -43,7 +43,7 @@ Demographic data come from the US Census Bureau. Data on confirmed Covid-19 case
 |Feb 28 | This is their new hoax. [Link](https://thehill.com/homenews/campaign/485245-trump-hits-democrats-over-coronavirus-criticism-this-is-their-new-hoax)|
 |March 2 | You take a solid flu vaccine, you don’t think that could have an impact, or much of an impact, on corona?  [Link](https://www.c-span.org/video/?470902-1/president-coronavirus-test-negative-defense-production-act-ventilators)|
 |March 4 | If we have...people that get better just by, you know, sitting around and even going to work, some of them go to work, but they get better. [Link](https://www.youtube.com/watch?v=IlZPtrhzY5U)|
-|March 5 | I NEVER said people that are feeling sick should go to work.| [Link](https://twitter.com/realDonaldTrump/status/1235573492004904961)|
+|March 5 | I NEVER said people that are feeling sick should go to work. [Link](https://twitter.com/realDonaldTrump/status/1235573492004904961)|
 |March 7 | Trump golfs|
 |March 8 | Trump golfs (again)|
 |March 9 | This blindsided the world. [Link](https://www.c-span.org/video/?470172-1/president-trump-coronavirus-task-force-briefing)|
@@ -61,7 +61,9 @@ Demographic data come from the US Census Bureau. Data on confirmed Covid-19 case
 |April 17 | Liberate Minnesota, Liberate Michigan, Liberate Virginia, and save your great 2nd Amendment. It is under siege! [Link1](https://twitter.com/realdonaldtrump/status/1251169987110330372), [Link2](https://twitter.com/realdonaldtrump/status/1251169217531056130),
 [Link3](https://twitter.com/realdonaldtrump/status/1251168994066944003)|
 |April 18| You have [Democrats] trying to take your 2nd Amendment away, essentially.  So I do think it's an appropriate time to bring it up. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-members-coronavirus-task-force-press-briefing-2/)|
+
 |April 19 | Partisan protests take place in state capitals around the US
+
 |April 20 | Nobody that needed a ventilator in this country didn’t get one. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-29/)|
 |April 21 | We’re opening up America again. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-members-coronavirus-task-force-press-briefing-3/)
 |April 22 | But I think spas and beauty salons and tattoo parlors and barber shops in phase one... it's just too soon. [Link](https://www.c-span.org/video/?471421-1/president-trump-voices-disagreement-georgia-governor-reopening-plan&start=965)|
