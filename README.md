@@ -38,7 +38,7 @@ Demographic data come from the US Census Bureau. Data on confirmed Covid-19 case
 |Feb 20 | Trump holds campaign rally (again)|
 |Feb 21 | Trump holds campaign rally (three days running)|
 |Feb 24 | The Coronavirus is very much under control in the USA... Stock Market starting to look very good to me! [Link](https://twitter.com/realdonaldtrump/status/1232058127740174339?lang=en)|
-|Feb 26 | It’s a little like the regular flu that we have flu shots for.| [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-conference/)|
+|Feb 26 | It’s a little like the regular flu that we have flu shots for. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-conference/)|
 |Feb 27 | One day it’s like a miracle, it will disappear. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-african-american-leaders/)|
 |Feb 28 | This is their new hoax. [Link](https://thehill.com/homenews/campaign/485245-trump-hits-democrats-over-coronavirus-criticism-this-is-their-new-hoax)|
 |March 2 | You take a solid flu vaccine, you don’t think that could have an impact, or much of an impact, on corona?  [Link](https://www.c-span.org/video/?470902-1/president-coronavirus-test-negative-defense-production-act-ventilators)|
