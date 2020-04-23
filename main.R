@@ -141,7 +141,7 @@ for (j in 0:max_days) {
   i <- ymd("2020-01-21") + ddays(j)
   
   # make titles, but don't put quotation marks around non-quotes
-  if (!j %in% c(0,7,8,9,10,11,20,25,29,30,31,46,47,52,64,74)) {
+  if (!j %in% c(0,7,8,9,10,11,20,25,29,30,31,46,47,52,64,74,89)) {
     quote <- textwrap(quotes$quote[which(quotes$date == i)])
   } else {
     quote <- quotes$quote[which(quotes$date == i)]
@@ -152,9 +152,12 @@ for (j in 0:max_days) {
   #### quote <- paste0("“We pretty much shut it down coming in from China.”","<br>","[Nearly 40,000 more people will arrive from China.]")
   
   #### optional split for April 12 (j = 87)
-  #### quote <- "“LIBERATE MINNESOTA!”"
-  #### quote <- "“LIBERATE MICHIGAN!”"
-  #### quote <- "“LIBERATE VIRGINIA, and save your great 2nd Amendment. It is under siege!”"
+  #### quote <- "“LIBERATE<i style='color:#ebfff8'>_</i>MINNESOTA!”"
+  #### quote <- "“LIBERATE<i style='color:#ebfff8'>_</i>MICHIGAN!”"
+  #### quote <- "“LIBERATE<i style='color:#ebfff8'>_</i>VIRGINIA, and save your great 2nd Amendment. It is under siege!”"
+  
+  #### optional split for April 22 (j = 92)
+  #### quote <- "“We may not have corona coming back, just so you understand.”"
 
   # grab the correct numbers for national cases/deaths in the two weeks leading up to date i
   num_cases <- sum(dat2[which(dat2$date==i & !is.na(dat2$cases14)),]$cases14,na.rm=T) %>% format(big.mark=",")
@@ -193,13 +196,14 @@ for (j in 0:max_days) {
     # caption is the same for every plot
     labs(x="",y="",
          subtitle = paste0(format(i, format="        %B %d, %Y"), "\n",
-                           "        Confirmed cases, last 14 days: ",num_cases,"\n",
-                           "        Confirmed deaths, last 14 days: ",num_deaths),
+                           "        Confirmed cases, previous 14 days: ",num_cases,"\n",
+                           "        Confirmed deaths, previous 14 days: ",num_deaths),
          title = quote,
          caption = " Data: US Census Bureau, NYT        
            Each county is a separate observation        
           Yellow circles indicate confirmed cases        
           Red circles indicate deaths        
+          Size indicates counts during previous 14 days        
           Darker counties have higher population density        ") +
     
     # technical stuff that formats all of the text nicely
@@ -261,7 +265,7 @@ for (j in 0:(length(frames)-1)) {
 
 sections <- floor(length(frames)/10) + ifelse(length(frames) %% 10 > 0,1,0)
 
-for (i in 1:sections) {
+for (i in 2:sections) {
 
   gifs <- (i*10-9):(i*10)
   
