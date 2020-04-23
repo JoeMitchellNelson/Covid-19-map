@@ -24,7 +24,7 @@ Rather than provide a cumulative measure of cases and deaths, we display the num
 Demographic data come from the US Census Bureau. Data on confirmed Covid-19 cases and deaths come from the [New York Times](https://github.com/nytimes/covid-19-data). We gathered data on Trump's golf schedule from [Trumpgolfcount.com](https://trumpgolfcount.com/displayoutings). A list of Trump's campaign rallies can be found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_post-election_Donald_Trump_rallies). Sources for the other captions are listed in the table below.
 
 | Date | Title, Link
-|:-----:|:-----:|
+|:-----:|:-----|
 |Jan 22nd | We have it totally under control. It’s one person coming in from China. It’s going to be just fine. [Link](https://www.cnbc.com/2020/01/22/trump-on-coronavirus-from-china-we-have-it-totally-under-control.html)|
 |Jan 28th | Trump holds campaign rally|
 |Jan 29th | Peter Navarro circulates a memo warning that half a million US citizens could die from Covid 19 [Link](https://www.foxnews.com/politics/white-house-memos-warned-in-run-up-to-pandemic-of-up-to-2m-deaths-economic-devastation)|
