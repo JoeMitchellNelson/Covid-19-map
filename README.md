@@ -67,7 +67,7 @@ Demographic data come from the US Census Bureau. Data on confirmed Covid-19 case
 |April 22 | We may not have corona coming back, just so you understand. [Link](https://www.c-span.org/video/?471421-1/president-trump-voices-disagreement-georgia-governor-reopening-plan)
 
 
-### Other timelines of Trump's (and others') public statements
+### More timelines of Trump's (and others') public statements
 
 [TheBulwark.com](https://thebulwark.com/a-timeline-of-trumps-press-briefing-lies/)
 
