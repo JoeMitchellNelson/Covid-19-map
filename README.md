@@ -1,6 +1,8 @@
 # Animated map of the spread of Covid-19
 Joe Mitchell-Nelson and Joanne Sherrod
 
+![4/13](https://github.com/JoeMitchellNelson/Covid-19-map/blob/master/frames/map083.png)
+
 ### Using this repo
 
 You'll need R and preferrably Rstudio installed to use this repo. R is free and open-source. [You can find help install R and Rstudio here](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/).
