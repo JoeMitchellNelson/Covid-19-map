@@ -58,8 +58,7 @@ Demographic data come from the US Census Bureau. Data on confirmed Covid-19 case
 |April 13 | When somebody is the president of the United States, the authority is total.[Link](https://www.c-span.org/video/?471160-1/president-trump-coronavirus-task-force-briefing)|
 |April 15 | We have the right to do whatever we want, but we wouldn’t do that. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-26/)|
 |April 16 | Democrat, Republican, conservative, liberal — we’re all working together.  This is not about parties; this is about our country. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-vice-president-pence-members-coronavirus-task-force-press-briefing-27/)
-|April 17 | Liberate Minnesota, Liberate Michigan, Liberate Virginia, and save your great 2nd Amendment. It is under siege! [Link1](https://twitter.com/realdonaldtrump/status/1251169987110330372), [Link2](https://twitter.com/realdonaldtrump/status/1251169217531056130),
-[Link3](https://twitter.com/realdonaldtrump/status/1251168994066944003)|
+|April 17 | Liberate Minnesota, Liberate Michigan, Liberate Virginia, and save your great 2nd Amendment. It is under siege! [Link1](https://twitter.com/realdonaldtrump/status/1251169987110330372), [Link2](https://twitter.com/realdonaldtrump/status/1251169217531056130),[Link3](https://twitter.com/realdonaldtrump/status/1251168994066944003)|
 |April 18| You have [Democrats] trying to take your 2nd Amendment away, essentially.  So I do think it's an appropriate time to bring it up. [Link](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-members-coronavirus-task-force-press-briefing-2/)|
 
 |April 19 | Partisan protests take place in state capitals around the US
