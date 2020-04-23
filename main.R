@@ -26,7 +26,7 @@ fonts()
 #I use Book Antiqua, so make sure you have it, or change the family option in the theme
 
 ############################################
-######## READ IN FILES/ CLEAN DATA #########
+###### READ IN FILES/ CLEAN THE DATA #######
 ############################################
 
 # read in the most up-to-date Covid data from NYT
@@ -141,12 +141,21 @@ for (j in 0:max_days) {
   i <- ymd("2020-01-21") + ddays(j)
   
   # make titles, but don't put quotation marks around non-quotes
-  if (!j %in% c(0,7,8,9,10,11,12,20,25,29,30,31,46,47,52,64,74)) {
+  if (!j %in% c(0,7,8,9,10,11,20,25,29,30,31,46,47,52,64,74)) {
     quote <- textwrap(quotes$quote[which(quotes$date == i)])
   } else {
     quote <- quotes$quote[which(quotes$date == i)]
   }
   
+  #### optional split for Feb 2 (j = 12)
+  #### quote <- "“We pretty much shut it down coming in from China.”<br><i style='color:#ebfff8'>[Nearly 40,000 more people will arrive from China.]</i>"
+  #### quote <- paste0("“We pretty much shut it down coming in from China.”","<br>","[Nearly 40,000 more people will arrive from China.]")
+  
+  #### optional split for April 12 (j = 87)
+  #### quote <- "“LIBERATE MINNESOTA!”"
+  #### quote <- "“LIBERATE MICHIGAN!”"
+  #### quote <- "“LIBERATE VIRGINIA, and save your great 2nd Amendment. It is under siege!”"
+
   # grab the correct numbers for national cases/deaths in the two weeks leading up to date i
   num_cases <- sum(dat2[which(dat2$date==i & !is.na(dat2$cases14)),]$cases14,na.rm=T) %>% format(big.mark=",")
   num_deaths <- sum(dat2[which(dat2$date==i & !is.na(dat2$deaths14)),]$deaths14,na.rm=T) %>% format(big.mark=",")
@@ -252,7 +261,7 @@ for (j in 0:(length(frames)-1)) {
 
 sections <- floor(length(frames)/10) + ifelse(length(frames) %% 10 > 0,1,0)
 
-for (i in 7:sections) {
+for (i in 1:sections) {
 
   gifs <- (i*10-9):(i*10)
   
@@ -265,9 +274,18 @@ for (i in 7:sections) {
   frames[gifs] %>% 
     purrr::map(image_read) %>% # reads each path file
     image_join() %>% # joins image
-    image_animate(delay=times[gifs],optimize=T) %>% # animates, can opt for number of loops
+    image_animate(delay=times[gifs],optimize=T) %>% 
     image_write(path=paste0("~/Covid-19-map/partial_gifs/partial",k,".gif"))
   
 }
 
 
+# if you want to try building the gif in one shot
+# (eschewing the admittedly inelegant ezgif step),
+# try this:
+
+frames[1:max_days] %>% 
+  purrr::map(image_read) %>% # reads each path file
+  image_join() %>% # joins image
+  image_animate(delay=times[1:max_days],optimize=T) %>% 
+  image_write(path=paste0("~/Covid-19-map/THE_MAP2.gif"))
