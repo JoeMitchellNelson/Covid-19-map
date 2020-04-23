@@ -17,7 +17,7 @@ To change, add, or remove map captions, edit the file `titles.txt`.
 
 To us, January and February's developments feel like they happened 12 years ago. Since then, the president's response to the Covid-19 epidemic has taken a number of turns, and it's easy to lose track.  We hope this short gif provides a brief history of Trump's public stances on Covid-19 in the context of the spread of the virus in the US.
 
-Rather than provide a cumulative measure of cases and deaths, we display the numbers of cases and deaths in the past two weeks. Cumulative measures can only increase or remain flat. As time passes, we hope that future updates show the virus receding.
+Rather than provide a cumulative measure of cases and deaths, we display a rolling total of cases and deaths in the previous two weeks. Cumulative measures can only increase or remain flat. As time passes, we hope that future updates show the virus receding.
 
 ### Sources
 
