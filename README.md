@@ -4,7 +4,11 @@
 
 This repo contains R code to create an animated map of the spread of Covid-19, using data pulled from the New York Times' public github repository.
 
-All of the R code is in the file main.R. One note is that you'll need an api key from the US Census Bureau. The Census isn't picky about who gets a key, but it may take a few hours for them to approve your request. [Request an api key here.](http://api.census.gov/data/key_signup.html)
+All of the R code is in the file main.R. One note is that **you'll need an api key from the US Census Bureau**. The Census isn't picky about who gets a key, but it may take a few hours for them to approve your request. [Request an api key here.](http://api.census.gov/data/key_signup.html)
+
+### Why the Trump quotes?
+
+To us, January and February's developments feel like they happened 12 years ago. Since then, the president's response to the Covid-19 epidemic has taken a number of turns, and it's easy to lose track.  We hope this short gif provides a brief history of Trump's public stances on Covid-19 in the context of the spread of the virus in the US.
 
 | Date | Title |
 |:-----:|:-----|
